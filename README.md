@@ -48,10 +48,10 @@ The models were evaluated using **Accuracy**, **ROC-AUC**, and **Confusion Matri
 
 | Model | Accuracy | ROC-AUC |
 | :--- | :--- | :--- |
-| **Random Forest (Best)** | **~77%** | **0.XX** |
-| XGBoost | ~76% | 0.XX |
-| Logistic Regression | ~75% | 0.XX |
-| SVM (RBF) | ~74% | 0.XX |
+| **Random Forest (Best)** | **~77%** | ** 0.722037** |
+| XGBoost | ~76% |  0.692 |
+| Logistic Regression | ~75% | 0.744815 |
+| SVM (RBF) | ~74% | 0.722037 |
 
 ### Confusion Matrix Insights
 For medical applications, **Recall** is vital. Our final model was selected because it successfully minimized False Negatives compared to baseline linear models.
