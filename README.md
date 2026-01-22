@@ -72,5 +72,3 @@ For medical applications, **Recall** is vital. Our final model was selected beca
 3. Run the notebook to see the full analysis.
 
 ---
-**Author:** [Your Name]  
-**LinkedIn:** [Your Profile Link]
